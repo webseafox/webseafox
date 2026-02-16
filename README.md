@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou Marcio
-
 ## 🚀 DevOps Engineer | SRE | Platform Engineer
 
 ### 💼 Sobre mim
